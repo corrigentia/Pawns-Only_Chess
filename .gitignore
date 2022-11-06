@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Topics/Inheritance/Fix bugs/out/
+/Topics/Inheritance/Fix bugs/out/production/classes/

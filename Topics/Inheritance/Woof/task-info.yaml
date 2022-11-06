@@ -1,0 +1,13 @@
+type: code
+custom_name: Woof!
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20492#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 01 Jul 2022 13:08:46 UTC"
+record: -1
